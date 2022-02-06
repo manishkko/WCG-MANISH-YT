@@ -132,5 +132,5 @@
       <LI><a HREF="https://www.youtube.com/channel/UClTd_qcrNL2De5p09pMr-vw" target="BLANK">CLICK HERE</a></LI>
     </UL>
   </UL>
-  <a href="http://127.0.0.1:5500/FORM%20TUTORIUAL.html" target="BLANK">APPLY FOR TOURNAMENT</a>
+  <a href="FORM TUTORIUAL.html" target="BLANK">APPLY FOR TOURNAMENT</a>
 </body>                                                                                    
