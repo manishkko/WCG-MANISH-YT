@@ -132,5 +132,5 @@
       <LI><a HREF="https://www.youtube.com/channel/UClTd_qcrNL2De5p09pMr-vw" target="BLANK">CLICK HERE</a></LI>
     </UL>
   </UL>
-  <a href="https://drive.google.com/file/d/1FNb8SsSKQyQcQ2h29Y8agzY1aYcPCmjX/view?usp=drivesdk" target="BLANK">APPLY FOR TOURNAMENT</a>
+  <a href="https://drive.google.com/file/d/1zseVvOmUFKAz2k-MVbz12QqUtUvIwBIw/view?usp=drivesdk" target="BLANK">APPLY FOR TOURNAMENT</a>
 </body>                                                                                    
